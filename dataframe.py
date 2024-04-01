@@ -28,7 +28,7 @@ def main():
     st.title("Data Display st.dataframe()")
     st.checkbox("Use container width", value=False, key = 'use_container_width')
 
-    st.tite("Maximum value per column")
+    st.title("Maximum value per column")
     df = load_data()
     st.dataframe(df, use_container_width=True)   # 대시보드에 표 삽입 
 

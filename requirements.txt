@@ -3,9 +3,11 @@ pandas
 matplotlib
 lxml
 seaborn
+html5lib
 statsmodels
 scipy
 patsy
 scikit-learn
 beautifulsoup4
 streamlit
+selenium
